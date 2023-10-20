@@ -1,28 +1,19 @@
-#Test {
-    font-size: 128px;
-    color: red;
-    font-weight: 200;
-}
-.redText {
-    color: red;
-    font-weight: 800;
+h1 {
+    text-align: center;
 }
 
-#fix {
-    display: inline-block;
-    width: 500px;
-    border: 2px blue solid;
-    padding: 30px 0px;
-    margin: 100px 0px;
+.p1 {
+    font-style: italic;
 }
-
-.Big{
+div {
+    border: 2px black solid;
+    padding: 30px;
+    margin: 100px;
+}
+button {
     font-size: 100px;
 }
-
-.contanaer{
-    display: inline-block;
-    width: 600px;
-    border:  2px black solid;
-    
-}
+body {
+    background-color: yellowgreen;
+  }
+  
